@@ -1,1 +1,2 @@
 This is my Git and GitHub lab project.
+This change was made in the feature branch.
